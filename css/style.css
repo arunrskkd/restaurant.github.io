@@ -124,3 +124,11 @@ img{
 
 
  }
+
+ .dropdown-menu{
+	background: rgba(0, 0, 0, 0.46);
+ }
+ .dropdown-menu a{
+	color: #fff;
+ }
+ 
